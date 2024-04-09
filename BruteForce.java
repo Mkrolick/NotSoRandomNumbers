@@ -97,4 +97,6 @@ public class BruteForce {
             return Long.compare(o1.size(), o2.size());
         }
     }
+    
 }
+
